@@ -1,4 +1,3 @@
-/* Hide horizontal scrollbar */
 body {
   overflow-x: hidden;
 }
@@ -7,8 +6,6 @@ body {
   width: 100%;
   overflow-x: hidden;
 }
-
-/* Optional: Hide scrollbar for scrolling containers */
 .product-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -18,10 +15,8 @@ body {
   width: 90%;
   max-width: 1200px;
   margin: auto;
-  overflow-x: hidden; /* Ensures no scrolling */
+  overflow-x: hidden; 
 }
-
-/* For Webkit browsers (Chrome, Safari) */
 ::-webkit-scrollbar {
   display: none;
 }
