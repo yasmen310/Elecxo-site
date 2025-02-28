@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptops",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQu5BjknXb_66T-wTdKU28HLFPGhm38xxINWOWO5Z-FbNJGSDeCe9w5EJi3xipUNJZjetgN30jFePJVT6Fa_SgQ3G0LNvhkHyL87kAOaebBxKTo69fVK-Kve31LJLt1WK4MTcKpMrxVpFM&usqp=CAc"
+    },
+    {
+      "id": 2,
+      "name": "Camera",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRcUbRgtW2U3yxUv6SgAzEHp0zfm_T8CETb20zJfR1FAQbgw5pilZg5YF4Znlm10AsQDJ-CKeALf08mP2wkU4pQu3liaxOUwXrrFoRNpJc7kzhWSRH2gxWcIAW2E6B2iNHvBJYMBuaw9g&usqp=CAc"
+    },
+    {
+      "id": 3,
+      "name": "Accessories",
+      "image": "https://m.media-amazon.com/images/I/214ergO+llL._SR290,290_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "TV",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSdIC96W7_PxAyNY_1R4_g1mYw7ybb0B-GoURYdgp8R3cK4A1vGdH-cM29nH6QhOz_7WD6Fj5NXhjdbhhNAJSCE3NkiiVke5DpTNj8c8XSr3LGLtI2I6v4MXLGam8NPXt0dI5f1IZhzsA&usqp=CAc"
+    },
+    {
+      "id": 5,
+      "name": "Headphones",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9pKZL4pGA2gfBDSx-BpV4jXCWcanpQIfJnjJSbRTQZepbx3372O37d42-5-Sn-cjIdTAekYe0o8oGPa0hMU6864aFmo-__597WkqMHSKv7T-QM3C39M0hdl88lgcw9P56rrPTFHmFLp0&usqp=CAc"
+    },
+    {
+      "id": 6,
+      "name": "Storage",
+      "image": "https://blog.ourcrowd.com/wp-content/uploads/2015/10/storage-tech.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Home Theater",
+      "image": "https://www.hindustantimes.com/ht-img/img/2023/12/06/1600x900/home_theatre_under_10000_1701875541117_1701875557088.JPG"
+    }
+  ]
+}
